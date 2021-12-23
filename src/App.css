@@ -1,17 +1,1 @@
-.image-container {
-  width: 150px;
-  height: 150px;
-  border: 1px solid black;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
 
-.top {
-  display: flex;
-  
-}
-
-.top p {
-  margin-right: 20px;
-}

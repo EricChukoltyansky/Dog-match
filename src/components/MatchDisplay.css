@@ -1,0 +1,26 @@
+.image-container {
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.top {
+  display: flex;
+}
+
+.top p {
+  margin-right: 20px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.desc {
+  display: flex;
+}
